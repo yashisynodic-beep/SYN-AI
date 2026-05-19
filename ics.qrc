@@ -1,0 +1,24 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/bg.png</file>
+    <file>icons/1.png</file>
+    <file>icons/3.png</file>
+    <file>icons/3d-view.svg</file>
+    <file>icons/arrow.png</file>
+    <file>icons/bar-chart.svg</file>
+    <file>icons/bg_2.jpeg</file>
+    <file>icons/bg_4.jpeg</file>
+    <file>icons/daylight.svg</file>
+    <file>icons/download.svg</file>
+    <file>icons/graph.jpeg</file>
+    <file>icons/logo.png</file>
+    <file>icons/logo.svg</file>
+    <file>icons/map.jpeg</file>
+    <file>icons/message.svg</file>
+    <file>icons/moon.svg</file>
+    <file>icons/pause-play.png</file>
+    <file>icons/forward.png</file>
+    <file>icons/previous.png</file>
+    <file>icons/user.svg</file>
+  </qresource>
+</RCC>
